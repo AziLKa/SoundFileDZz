@@ -19,4 +19,4 @@ user_input = input('Введите коэффициент: ')
 fast_sound = speed_change(wav_file, float(user_input))
 #  Вызывает speed_change с аргументами wav_file и user_input, и сохраняет результат в переменную fast_sound.
 fast_sound.export("output.wav", format="wav")
-#  экспортn
+#  экспортnnn
